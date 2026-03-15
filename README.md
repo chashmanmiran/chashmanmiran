@@ -23,5 +23,5 @@ Secure VPN infrastructure built using OpenVPN and Kali Linux.
 Docker • DevOps fundamentals • Cloud infrastructure 
 
 ## Contact
-LinkedIn: ([(https://www.linkedin.com/in/chashman-miran/)])  
+LinkedIn: https://www.linkedin.com/in/chashman-miran/ 
 Email: miranchashman@gmail.com
