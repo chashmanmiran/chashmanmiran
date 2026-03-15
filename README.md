@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chashman 👋
 
-<!--
-**chashmanmiran/chashmanmiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Technology student focused on backend development, cloud systems, and IoT engineering.
 
-Here are some ideas to get you started:
+## Technical Skills
+Python • Flask • REST APIs • AWS • Linux • Networking • MQTT • IoT Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### REST API Backend
+Flask API with CRUD operations and database models.
+
+### User Authentication API
+Secure login and registration API with password hashing.
+
+### IoT Smart Plant Watering System
+Raspberry Pi system integrated with AWS IoT Core and MQTT messaging.
+
+### Linux VPN Networking Project
+Secure VPN infrastructure built using OpenVPN and Kali Linux.
+
+## Currently Learning
+Docker • DevOps fundamentals • Cloud infrastructure 
+
+## Contact
+LinkedIn: [(link)](https://www.linkedin.com/in/chashman-miran/)  
+Email: miranchashman@gmail.com
