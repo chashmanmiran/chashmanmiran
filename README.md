@@ -1,6 +1,6 @@
 # Hi, I'm Chashman 👋
 
-Computer Engineering Technology student focused on backend development, cloud systems, and IoT engineering.
+Full-Stack Developer 
 
 ## Technical Skills
 Python • Flask • REST APIs • AWS • Linux • Networking • MQTT • IoT Systems
